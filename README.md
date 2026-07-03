@@ -61,7 +61,6 @@ I am passionate developer from India
 
 **C • Python • JavaScript • Java**
 
----
 
 ### 🌐 Web Development
 
@@ -73,7 +72,6 @@ I am passionate developer from India
 
 **HTML • CSS • Flask**
 
----
 
 ### 🗄️ Database
 
@@ -85,7 +83,6 @@ I am passionate developer from India
 
 **SQL • PostgreSQL • Supabase**
 
----
 
 ### 🤖 AI / Machine Learning
 
@@ -96,7 +93,6 @@ I am passionate developer from India
 
 **Machine Learning • Generative AI**
 
----
 
 ### 📊 Data Science Libraries
 
@@ -108,7 +104,6 @@ I am passionate developer from India
 
 **Pandas • NumPy • Scikit-learn**
 
----
 
 ### 🛠️ Tools & Technologies
 
@@ -130,7 +125,6 @@ I am passionate developer from India
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srushtifhosagoudra&layout=compact&theme=tokyonight)
 
----
 
 # 🏆 GitHub Trophies
 
@@ -161,7 +155,6 @@ I am passionate developer from India
 
 </p>
 
----
 
 <p align="center">
 
