@@ -46,39 +46,79 @@ I am passionate developer from India
 
 🏅 IIIT Dharwad Hackathon Finalist
 
+
+---
+# 💻 Technical Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+</p>
+
+**C • Python • JavaScript • Java**
+
 ---
 
-# 💻 Tech Stack
+### 🌐 Web Development
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask"/>
 </p>
 
-### Frameworks
+**HTML • CSS • Flask**
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,tailwind" />
+---
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase"/>
 </p>
 
-### Databases
+**SQL • PostgreSQL • Supabase**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="Machine Learning"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="Gen AI"/>
 </p>
 
-### AI / ML
+**Machine Learning • Generative AI**
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+---
+
+### 📊 Data Science Libraries
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn"/>
 </p>
 
-### Tools
+**Pandas • NumPy • Scikit-learn**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
 </p>
+
+**Git • GitHub • VS Code • REST APIs • DBMS • Operating Systems (OS)**
 
 ---
 
