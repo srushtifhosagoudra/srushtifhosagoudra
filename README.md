@@ -3,7 +3,7 @@
 <<h1 align="center">Hi 👋, I'm Srushti F. Hosagoudra</h1>
 
 <h3 align="center">
-I am passionate developer from india 
+I am passionate developer from India 
 </h3>
 
 <p align="center">
