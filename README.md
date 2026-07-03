@@ -3,7 +3,7 @@
 <<h1 align="center">Hi 👋, I'm Srushti F. Hosagoudra</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & Full-Stack Developer | India 🇮🇳
+I am passionate developer from india 
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Computer Science Engineering Student | AI & Full-Stack Developer | India 🇮�
 
 - 🌱 I'm currently learning **Generative AI, Agentic AI, Machine Learning & System Design**
 
-- 💼 I'm currently working on **AI-Powered Multi-Agent Systems & Intelligent Web Applications**
+- 💼 I'm currently working on ** Web Applications**
 
 - 📄 Check out my Resume 👉 [My Resume](https://drive.google.com/drive/folders/1QBbIoKPLFWBJruzjbuG48ySoEuxuBzf2?usp=drive_link)
 
